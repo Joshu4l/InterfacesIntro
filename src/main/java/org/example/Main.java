@@ -30,6 +30,5 @@ public class Main {
         // Polymorphism example
         Playable myMusicPlayer = new MusicPlayer();
         myController.playMedia(myMusicPlayer);
-
     }
 }
